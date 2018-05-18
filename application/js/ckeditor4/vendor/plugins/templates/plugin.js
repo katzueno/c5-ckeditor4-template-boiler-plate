@@ -81,7 +81,7 @@
  * @member CKEDITOR.config
  */
 CKEDITOR.config.templates_files = [
-	CKEDITOR.getUrl( 'plugins/templates/templates/default.js' )
+    CKEDITOR.getUrl( '/application/js/ckeditor4/vendor/plugins/templates/templates/default.js' )
 ];
 
 /**

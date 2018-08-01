@@ -3,7 +3,7 @@ concrete5 CKEditor Boiler Plate
 
 ## 使い方
 
-- /application/bootstrap/app.php を concrete5 に差し替え。
+- /application/bootstrap/app.php を concrete5 サイトにあるものと差し替え。
     - **注意!** も既に何か記述がある方は GitHub 上のファイル 2〜23行目を追加して下さい。
         - 2~3行目の [use ---- ] は PHP ファイルの冒頭で宣言しないといけないので気をつけて下さい。
 - /application/js/ckeditor4/vendor/plugins/templates/templates/default.js

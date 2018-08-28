@@ -15,3 +15,6 @@ concrete5 CKEditor Boiler Plate
         - HTML
 - 選択画面で参考画像を表示します。その画像は `/application/js/ckeditor4/vendor/plugins/templates/templates/images` フォルダ配下に設置して下さい
 - 以上のファイルを concrete5 にアップロードします。
+- concrete5 に管理権限のあるユーザーでログインします。
+- 管理画面 - システムと設定 - 基本 - 記事ブロックエディター設定 ページに訪問します
+- エディタープラグインから、「テンプレート (Templates)」をチェックします
